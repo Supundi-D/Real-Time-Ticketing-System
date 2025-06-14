@@ -1,0 +1,1 @@
+Java multithreaded simulation of a ticketing system. Initializes a configurable ticket pool, saves settings to JSON and TXT files, and creates multiple vendor and customer threads. Vendors release tickets while customers retrieve them, demonstrating thread interaction.
